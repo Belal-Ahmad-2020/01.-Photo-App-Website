@@ -35,6 +35,10 @@ body {
     margin-bottom: 0px;
 }
 
+section  {
+    padding: 50px 0 50px 0;
+}
+
 img.demo {
     width: 100%;
     padding: 3px;
