@@ -76,3 +76,7 @@ footer li {
 footer  a {
     color: #fff;
 }
+
+footer p {
+    float: right;
+}
