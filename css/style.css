@@ -6,3 +6,28 @@ body {
 .em-text {
     color: #1caa98 !important;
 }
+
+.jumbotron {
+    background: url('../img/site_showcase_bg.jpg') no-repeat top center;
+    height: 590px;
+    color: #fff;
+}
+
+.jumbotron h1 {
+    margin-top: 60px;
+}
+
+.jumbotron p {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.jumbotron .icon-img {
+    margin-right: 30px;
+    margin-top: 10px;
+}
+
+.jumbotron .showcase-img {
+    width: 75%;
+    height: 75%;
+}
