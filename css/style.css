@@ -59,6 +59,10 @@ section#features ul li {
     font-size: 22px;
     list-style: none;
     line-height: 2.0em;
+}
 
-
+footer {
+    background: #ccc;
+    color: #fff;
+    padding: 30px 0 20px 0;
 }
