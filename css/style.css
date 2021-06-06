@@ -25,6 +25,7 @@ body {
 .jumbotron .icon-img {
     margin-right: 30px;
     margin-top: 10px;
+    width:40%;
 }
 
 .jumbotron .showcase-img {
@@ -33,3 +34,11 @@ body {
     margin-left: 40px;
     margin-bottom: 0px;
 }
+
+img.demo {
+    width: 100%;
+    padding: 3px;
+    border: 1px solid #ccc;
+}
+
+
