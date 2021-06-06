@@ -81,6 +81,19 @@ footer p {
     float: right;
 }
 
+section#about-title {
+    background: #1caa98;
+    width:100%;    
+    height: 80px;
+    color: #fff;
+    padding: 0;
+    margin: 0;
+}
+
+section#about-title h1 {
+    padding: 10px;
+}
+
 section#about {
     min-height: 600px;
 }
