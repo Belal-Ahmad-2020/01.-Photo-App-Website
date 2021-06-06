@@ -11,6 +11,7 @@ body {
     background: url('../img/site_showcase_bg.jpg') no-repeat top center;
     height: 590px;
     color: #fff;
+    overflow: hidden;
 }
 
 .jumbotron h1 {
@@ -46,3 +47,18 @@ img.demo {
 }
 
 
+section#features {
+    width:100%;
+    background-color: #1caa98 !important;
+    color:#fff;
+    padding: 40px;
+    overflow: hidden;
+}
+
+section#features ul li {
+    font-size: 22px;
+    list-style: none;
+    line-height: 2.0em;
+
+
+}
