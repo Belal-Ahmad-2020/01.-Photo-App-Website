@@ -98,3 +98,15 @@ section#about {
     min-height: 600px;
 }
 
+section#contact-title {
+    padding:0;
+    background-color: #1caa98;
+}
+
+section#contact-title h1 {
+    color: #fff;
+} 
+
+section#contact {
+    min-height: 600px;
+}
