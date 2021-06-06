@@ -80,3 +80,7 @@ footer  a {
 footer p {
     float: right;
 }
+
+section#about {
+    min-height: 600px;
+}
