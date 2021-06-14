@@ -155,7 +155,7 @@ section#contact {
 
 @media(max-width: 500px) {
    .jumbotron {
-        height: 350px !important;
+        height: 450px !important;
         background-image: none;
         text-align: center;
         
