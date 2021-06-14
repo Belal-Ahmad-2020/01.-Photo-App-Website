@@ -110,3 +110,28 @@ section#contact-title h1 {
 section#contact {
     min-height: 600px;
 }
+
+
+/* Media Queries */
+
+@media(max-width: 1200px) {
+
+}
+
+
+@media(max-width: 991px) {
+    
+}
+
+
+@media(min-width: 768px) and (max-width: 990px) {
+    
+}
+
+@media(min-width: 768px) {
+
+}
+
+@media(max-width: 500px) {
+    
+}
