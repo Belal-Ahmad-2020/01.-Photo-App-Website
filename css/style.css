@@ -7,6 +7,10 @@ body {
     color: #1caa98 !important;
 }
 
+.col-md-4 {
+    margin-bottom: 20px;
+}
+
 .jumbotron {
     background:#1b222a url('../img/site_showcase_bg.jpg') no-repeat top center;
     height: 590px;
@@ -61,13 +65,20 @@ section#features ul li {
     line-height: 2.0em;
 }
 
+section#features ul {
+    margin: 0;
+    padding: 0;
+}
+
 footer {
     background: #333;
     color: #fff;
     padding: 30px 0 20px 0;
 }
 
-footer li {
+
+
+footer ul li {
     float:left;
     list-style: none;
     padding: 0 10px 0 10px;
@@ -164,5 +175,15 @@ section#contact {
     .jumbotron .icon-img {
         margin: 0 auto 30px auto;
         width:60% !important;
+    }
+
+    section#features ul li {
+        font-size: 19px;
+    }
+
+    footer p {
+        float: none;
+        text-align: center;
+        padding-top: 20px;
     }
 }
