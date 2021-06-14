@@ -128,12 +128,17 @@ section#contact {
 
 @media(min-width: 768px) and (max-width: 990px) {
     .jumbotron .icon-img {
-        width:30%;
+        margin-right: 40px;
+        width:30% !important;
     }
 
     .jumbotron {
         height: 400px !important;
-        
+        background-size: 100% 100%;
+    }
+
+    .jumbotron h1 {
+        margin-top: 10px;
     }
 }
 
